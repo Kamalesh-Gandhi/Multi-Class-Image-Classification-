@@ -1,0 +1,17 @@
+                                  precision    recall  f1-score   support
+
+                     animal fish       0.52      0.08      0.14       520
+                animal fish bass       0.02      0.69      0.03        13
+   fish sea_food black_sea_sprat       0.25      0.38      0.30       298
+   fish sea_food gilt_head_bream       0.00      0.00      0.00       305
+   fish sea_food hourse_mackerel       0.33      0.17      0.23       286
+        fish sea_food red_mullet       0.19      0.19      0.19       291
+     fish sea_food red_sea_bream       0.60      0.01      0.02       273
+          fish sea_food sea_bass       0.35      0.07      0.12       327
+            fish sea_food shrimp       0.20      0.70      0.31       289
+fish sea_food striped_red_mullet       0.22      0.19      0.20       293
+             fish sea_food trout       0.29      0.37      0.33       292
+
+                        accuracy                           0.21      3187
+                       macro avg       0.27      0.26      0.17      3187
+                    weighted avg       0.31      0.21      0.18      3187
